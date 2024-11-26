@@ -1,5 +1,6 @@
 print("hallo allem")
 
-print("veerandering voor pull")0
+print("veerandering voor pull")
 
+print("verkeerde verandering")
 print("verandering via github")
